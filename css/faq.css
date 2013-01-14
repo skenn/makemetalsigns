@@ -53,6 +53,11 @@ html
 	margin-top: 168px;
 }
 
+.banner
+{
+	background-image: url("../images/banner.jpg");
+}
+
 #menuu999
 {
 	z-index: 9;
@@ -265,14 +270,21 @@ html
 	margin: 0px -10000px 0px 0px;
 }
 
+#pu595
+{
+	width: 0.01px;
+	margin-left: 101px;
+	position: relative;
+}
+
 #u595
 {
 	z-index: 41;
 	width: 799px;
 	border-width: 1px;
 	border-style: solid;
-	margin-left: 101px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 .content
@@ -283,12 +295,12 @@ html
 	background-color: #CCCCCC;
 }
 
-#u596-178
+#u596-175
 {
 	z-index: 42;
 	width: 721px;
-	min-height: 2168px;
-	margin-bottom: -12px;
+	min-height: 2150px;
+	margin-bottom: -59px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 23px;
@@ -412,6 +424,12 @@ html
 	line-height: 1.2;
 }
 
+#u596-8,#u596-29,#u596-54,#u596-84,#u596-125,#u596-153
+{
+	font-size: 1px;
+	line-height: 0px;
+}
+
 #u762
 {
 	z-index: 225;
@@ -441,41 +459,34 @@ html
 	vertical-align: top;
 }
 
-#u596-164,#u596-165,#u596-166,#u596-167,#u596-168,#u596-169,#u596-170,#u596-171,#u596-172,#u596-176
+#u596-164,#u596-165,#u596-166,#u596-167,#u596-168,#u596-169,#u596-170,#u596-171,#u596-172,#u596-173
 {
 	font-size: 14px;
 	color: #FFFFFF;
 	font-weight: normal;
 }
 
-#u596-8,#u596-29,#u596-54,#u596-84,#u596-125,#u596-153,#u596-173
+#u1227
 {
-	font-size: 1px;
-	line-height: 0px;
+	z-index: 248;
+	background: url("../images/u1227_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 731px;
+	margin-right: -10000px;
+	margin-top: 2054px;
+	left: 38px;
 }
 
-#u1218
+#u1227_states
 {
-	margin-top: -20px;
-	margin-bottom: 20px;
-}
-
-#u1217
-{
-	z-index: 251;
-	background: url("../images/u1217_states.png") no-repeat 0px 0px;
-}
-
-#u1217_states
-{
-	height: 55px;
-	width: 730px;
+	height: 56px;
+	width: 731px;
 	vertical-align: top;
 }
 
-#u1217:hover #u1217_states
+#u1227:hover #u1227_states
 {
-	background: url("../images/u1217_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u1227_states-r.png") no-repeat 0px 0px;
 }
 
 #u106-7
@@ -484,7 +495,7 @@ html
 	width: 336px;
 	min-height: 61px;
 	margin-left: 340px;
-	margin-top: 28px;
+	margin-top: 75px;
 }
 
 body
