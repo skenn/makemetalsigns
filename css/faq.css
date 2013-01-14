@@ -53,11 +53,6 @@ html
 	margin-top: 168px;
 }
 
-.banner
-{
-	background-image: url("../images/banner.jpg");
-}
-
 #menuu999
 {
 	z-index: 9;
@@ -300,7 +295,7 @@ html
 	z-index: 42;
 	width: 721px;
 	min-height: 2150px;
-	margin-bottom: -59px;
+	margin-bottom: -35px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 23px;
@@ -495,7 +490,7 @@ html
 	width: 336px;
 	min-height: 61px;
 	margin-left: 340px;
-	margin-top: 75px;
+	margin-top: 51px;
 }
 
 body
