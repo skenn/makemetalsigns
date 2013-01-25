@@ -1,12 +1,12 @@
 <manifest alg="2" build="2" opt="false">
   <folder name="css">
     <file name="site_global.css" crc="3897820008"/>
-    <file name="master_a-master.css" crc="3850662213" ref="about-us:buildmysign:index:contact:faq"/>
-    <file name="about-us.css" crc="3982980098" ref="about-us"/>
-    <file name="buildmysign.css" crc="3821735428" ref="buildmysign"/>
-    <file name="index.css" crc="4260306306" ref="index"/>
-    <file name="contact.css" crc="268315376" ref="contact"/>
-    <file name="faq.css" crc="4017478969" ref="faq"/>
+    <file name="master_a-master.css" crc="4231568555" ref="about-us:buildmysign:index:contact:faq"/>
+    <file name="about-us.css" crc="4021391184" ref="about-us"/>
+    <file name="buildmysign.css" crc="3996519400" ref="buildmysign"/>
+    <file name="index.css" crc="3928470266" ref="index"/>
+    <file name="contact.css" crc="374233014" ref="contact"/>
+    <file name="faq.css" crc="3969775996" ref="faq"/>
   </folder>
   <folder name="scripts">
     <folder name="1.1">
@@ -50,10 +50,11 @@
     <file name="u1203_states-r.png" crc="3807339012" ref="contact"/>
     <file name="u1227_states.png" crc="3960636220" ref="faq"/>
     <file name="u1227_states-r.png" crc="3807339012" ref="faq"/>
+    <file name="shopcart.png" crc="4164866194" ref="index:about-us:faq:contact:buildmysign"/>
   </folder>
-  <file name="index.html" crc="258637262" mt="1358132899633"/>
-  <file name="about-us.html" crc="4248517391" mt="1358132899634"/>
-  <file name="faq.html" crc="4195236171" mt="1358132932585"/>
-  <file name="contact.html" crc="4105656447" mt="1358132899637"/>
-  <file name="buildmysign.html" crc="126464841" mt="1358132899639"/>
+  <file name="index.html" crc="4246804549" mt="1359087349852"/>
+  <file name="about-us.html" crc="3831992296" mt="1359087349853"/>
+  <file name="faq.html" crc="3887881600" mt="1359087349855"/>
+  <file name="contact.html" crc="83957734" mt="1359087349857"/>
+  <file name="buildmysign.html" crc="107520016" mt="1359087349859"/>
 </manifest>
